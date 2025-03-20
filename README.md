@@ -25,7 +25,7 @@
 
 **Решение 1**
 
-[ССЫЛКА НА PKT](https://github.com/mezhibo/ni1003/blob/43783c1fd75936b0208e387e164a451b4902756a/IMG/mezhibo10-02-01.pkt)
+[ССЫЛКА НА PKT](https://github.com/mezhibo/ni1003/blob/3c1ebad14f4c592df20fc452ee204c8eedb82b5b/IMG/mezhibo2.pkt)
 
 
 **Задание 2**
